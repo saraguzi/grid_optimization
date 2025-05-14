@@ -5,4 +5,4 @@ Univerzita Komenského v Bratislave
 
 Fakulta matematiky, fyziky a informatiky
 
-2026
+2024-2026
